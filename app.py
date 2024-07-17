@@ -16,7 +16,7 @@ st.title('Trust Score Prediction App')
 
 # Sidebar
 st.sidebar.title("Made by Naufal Prawironegoro")
-
+#
 st.header("Input the Parameters")
 
 # Input fields for each parameter
