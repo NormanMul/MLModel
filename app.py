@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import joblib
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import numpy as np
 
 # Load the model
